@@ -1,0 +1,730 @@
+================================= ENTROU INIC PILHA ============================
+================================= SAIU INIC PILHA ============================
+
+================================= ENTROU INICIA LISTA ==============================
+Inicia lista duplamente encadeada
+---- VERIFICACAO INICIA LISTA VAZIA : TRUE----
+================================= SAIU INICIA LISTA =================================
+
+================================= ENTROU INIC FILA ============================
+frente da fila inicializada em 0
+final da fila inicializada em 0
+vez da fila inicializada em 0
+---- VERIFICACAO INICIA FILA VAZIA : TRUE----
+================================= SAIU  INIC FILA =============================
+
+verificacao da lista (endereço lista) 0x7fff3c4a4e00 
+verificacao da lista (valor listsa) 0x21ad030 
+
+================================= ENTROU NO MENU =================================
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 1 
+1 - Mostrar candidatos
+2 - Inserir candidato 
+3 - Remover candidato
+Entrada: 
+Entrada recebida : 2 
+================================= ENTROU NOVO CANDIDATO ================================= 
+================================= ENTROU INSERE DADOS =================================
+Dados para o novo candidato 
+
+Insira o nome do candidato: 
+Nome = voce digitou Beto Falcao
+
+Insira o nome do partido: 
+Partido = voce digitou PT
+
+Insira o numero do candidato: 
+Numero = voce digitou 10
+================================= ENTROU PROCURA CANDIDATO =================================
+================================= SAIU PROCURA CANDIDATO (nao encontrou) =================================
+
+================================= SAIU INSERE DADOS =================================
+
+
+Dados cadastrados do candidato:
+nome :Beto Falcao
+partido :PT
+numero :10
+================================= SAIU NOVO CANDIDATO =================================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 1 
+1 - Mostrar candidatos
+2 - Inserir candidato 
+3 - Remover candidato
+Entrada: 
+Entrada recebida : 2 
+================================= ENTROU NOVO CANDIDATO ================================= 
+================================= ENTROU INSERE DADOS =================================
+Dados para o novo candidato 
+
+Insira o nome do candidato: 
+Nome = voce digitou Laureta
+
+Insira o nome do partido: 
+Partido = voce digitou PSOL
+
+Insira o numero do candidato: 
+Numero = voce digitou 15
+================================= ENTROU PROCURA CANDIDATO =================================
+================================= SAIU PROCURA CANDIDATO (nao encontrou) =================================
+
+================================= SAIU INSERE DADOS =================================
+
+
+Dados cadastrados do candidato:
+nome :Laureta
+partido :PSOL
+numero :15
+================================= SAIU NOVO CANDIDATO =================================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 1 
+1 - Mostrar candidatos
+2 - Inserir candidato 
+3 - Remover candidato
+Entrada: 
+Entrada recebida : 2 
+================================= ENTROU NOVO CANDIDATO ================================= 
+================================= ENTROU INSERE DADOS =================================
+Dados para o novo candidato 
+
+Insira o nome do candidato: 
+Nome = voce digitou Carola
+
+Insira o nome do partido: 
+Partido = voce digitou PSOL
+
+Insira o numero do candidato: 
+Numero = voce digitou 20
+================================= ENTROU PROCURA CANDIDATO =================================
+================================= SAIU PROCURA CANDIDATO (nao encontrou) =================================
+
+================================= SAIU INSERE DADOS =================================
+
+
+Dados cadastrados do candidato:
+nome :Carola
+partido :PSOL
+numero :20
+================================= SAIU NOVO CANDIDATO =================================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 1 
+1 - Mostrar candidatos
+2 - Inserir candidato 
+3 - Remover candidato
+Entrada: 
+Entrada recebida : 2 
+================================= ENTROU NOVO CANDIDATO ================================= 
+================================= ENTROU INSERE DADOS =================================
+Dados para o novo candidato 
+
+Insira o nome do candidato: 
+Nome = voce digitou Alef
+
+Insira o nome do partido: 
+Partido = voce digitou PSDB
+
+Insira o numero do candidato: 
+Numero = voce digitou 666
+================================= ENTROU PROCURA CANDIDATO =================================
+================================= SAIU PROCURA CANDIDATO (nao encontrou) =================================
+
+================================= SAIU INSERE DADOS =================================
+
+
+Dados cadastrados do candidato:
+nome :Alef
+partido :PSDB
+numero :666
+================================= SAIU NOVO CANDIDATO =================================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 1 
+1 - Mostrar candidatos
+2 - Inserir candidato 
+3 - Remover candidato
+Entrada: 
+Entrada recebida : 1 
+================================= ENTROU IMPRIME LISTA =================================
+Candidato 1:
+Nome do candidato: Beto Falcao
+Partido do candidato: PT
+Numero do candidato: 10
+Candidato 2:
+Nome do candidato: Laureta
+Partido do candidato: PSOL
+Numero do candidato: 15
+Candidato 3:
+Nome do candidato: Carola
+Partido do candidato: PSOL
+Numero do candidato: 20
+Candidato 4:
+Nome do candidato: Alef
+Partido do candidato: PSDB
+Numero do candidato: 666
+================================= SAIU IMPRIME LISTA =================================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 1 
+1 - Mostrar candidatos
+2 - Inserir candidato 
+3 - Remover candidato
+Entrada: 
+Entrada recebida : 3 
+Digite o numero do candidato a ser removido: 
+Entrada: 
+Voce digitou = 666
+================================= ENTRA REMOVE CANDIDATO =================================
+Dados do candidato removido:
+Nome = Alef
+Partido = PSDB
+Numero = 666
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 1 
+1 - Mostrar candidatos
+2 - Inserir candidato 
+3 - Remover candidato
+Entrada: 
+Entrada recebida : 1 
+================================= ENTROU IMPRIME LISTA =================================
+Candidato 1:
+Nome do candidato: Beto Falcao
+Partido do candidato: PT
+Numero do candidato: 10
+Candidato 2:
+Nome do candidato: Laureta
+Partido do candidato: PSOL
+Numero do candidato: 15
+Candidato 3:
+Nome do candidato: Carola
+Partido do candidato: PSOL
+Numero do candidato: 20
+================================= SAIU IMPRIME LISTA =================================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 2 
+1 - Mostrar fila
+2 - Inserir eleitor 
+3 -  Remover eleitor
+Entrada: 
+Entrada recebida : 2 
+================================= ENTROU ENFILEIRA =============================
+Insira os dados do eleitor
+Nome = Voce digitou : Lilian
+
+Numero do titulo de eleitor =Voce digitou : 7548
+ Fila Final = 1
+================================= SAIU ENFILEIRA =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 2 
+1 - Mostrar fila
+2 - Inserir eleitor 
+3 -  Remover eleitor
+Entrada: 
+Entrada recebida : 2 
+================================= ENTROU ENFILEIRA =============================
+Insira os dados do eleitor
+Nome = Voce digitou : Leonardo
+
+Numero do titulo de eleitor =Voce digitou : 9866
+ Fila Final = 2
+================================= SAIU ENFILEIRA =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 2 
+1 - Mostrar fila
+2 - Inserir eleitor 
+3 -  Remover eleitor
+Entrada: 
+Entrada recebida : 2 
+================================= ENTROU ENFILEIRA =============================
+Insira os dados do eleitor
+Nome = Voce digitou : Elias
+
+Numero do titulo de eleitor =Voce digitou : 1111
+ Fila Final = 3
+================================= SAIU ENFILEIRA =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 2 
+1 - Mostrar fila
+2 - Inserir eleitor 
+3 -  Remover eleitor
+Entrada: 
+Entrada recebida : 2 
+================================= ENTROU ENFILEIRA =============================
+Insira os dados do eleitor
+Nome = Voce digitou : Caio
+
+Numero do titulo de eleitor =Voce digitou : 9864
+ Fila Final = 4
+================================= SAIU ENFILEIRA =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 2 
+1 - Mostrar fila
+2 - Inserir eleitor 
+3 -  Remover eleitor
+Entrada: 
+Entrada recebida : 2 
+================================= ENTROU ENFILEIRA =============================
+Insira os dados do eleitor
+Nome = Voce digitou : Guilherme
+
+Numero do titulo de eleitor =Voce digitou : 5555
+ Fila Final = 5
+================================= SAIU ENFILEIRA =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 2 
+1 - Mostrar fila
+2 - Inserir eleitor 
+3 -  Remover eleitor
+Entrada: 
+Entrada recebida : 2 
+================================= ENTROU ENFILEIRA =============================
+Insira os dados do eleitor
+Nome = Voce digitou : Barack Obama
+
+Numero do titulo de eleitor =Voce digitou : 100
+ Fila Final = 6
+================================= SAIU ENFILEIRA =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 2 
+1 - Mostrar fila
+2 - Inserir eleitor 
+3 -  Remover eleitor
+Entrada: 
+Entrada recebida : 1 
+================================= ENTROU IMPRIME FILA =============================
+Dados dos eleitores na fila: 
+Lugar na fila : 0
+Nome : Lilian
+Titulo : 7548
+Eleitor ainda nao votou
+
+Lugar na fila : 1
+Nome : Leonardo
+Titulo : 9866
+Eleitor ainda nao votou
+
+Lugar na fila : 2
+Nome : Elias
+Titulo : 1111
+Eleitor ainda nao votou
+
+Lugar na fila : 3
+Nome : Caio
+Titulo : 9864
+Eleitor ainda nao votou
+
+Lugar na fila : 4
+Nome : Guilherme
+Titulo : 5555
+Eleitor ainda nao votou
+
+Lugar na fila : 5
+Nome : Barack Obama
+Titulo : 100
+Eleitor ainda nao votou
+
+================================= SAIU IMPRIME FILA =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 2 
+1 - Mostrar fila
+2 - Inserir eleitor 
+3 -  Remover eleitor
+Entrada: 
+Entrada recebida : 3 
+================================= ENTROU DSENFILEIRA =============================
+================================= SAIU DESENFILEIRA =============================
+
+Eleitor da frente removido !
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 2 
+1 - Mostrar fila
+2 - Inserir eleitor 
+3 -  Remover eleitor
+Entrada: 
+Entrada recebida : 1 
+================================= ENTROU IMPRIME FILA =============================
+Dados dos eleitores na fila: 
+Lugar na fila : 1
+Nome : Leonardo
+Titulo : 9866
+Eleitor ainda nao votou
+
+Lugar na fila : 2
+Nome : Elias
+Titulo : 1111
+Eleitor ainda nao votou
+
+Lugar na fila : 3
+Nome : Caio
+Titulo : 9864
+Eleitor ainda nao votou
+
+Lugar na fila : 4
+Nome : Guilherme
+Titulo : 5555
+Eleitor ainda nao votou
+
+Lugar na fila : 5
+Nome : Barack Obama
+Titulo : 100
+Eleitor ainda nao votou
+
+================================= SAIU IMPRIME FILA =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 4 
+================================= ENTROU VOTAR =============================
+final 6
+Voce iria registrar o voto de Lilian
+ que e o 0 na fila 
+Voto = Voce digitou 15
+================================= ENTROU PROCURA CANDIDATO =================================
+================================= SAIU PROCURA CANDIDATO (encontrou) =================================
+
+================================= ENTROU PUSH ============================
+================================= SAIU PUSH ============================
+
+================================= ENTROU ADICIONA VOTO =================================
+contabilizou mais um voto para : Laureta
+ 
+ Quantidade de votos = 1 
+================================= SAIU VOTAR =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 4 
+================================= ENTROU VOTAR =============================
+final 6
+Voce iria registrar o voto de Leonardo
+ que e o 1 na fila 
+Voto = Voce digitou 10
+================================= ENTROU PROCURA CANDIDATO =================================
+================================= SAIU PROCURA CANDIDATO (encontrou) =================================
+
+================================= ENTROU PUSH ============================
+================================= SAIU PUSH ============================
+
+================================= ENTROU ADICIONA VOTO =================================
+contabilizou mais um voto para : Beto Falcao
+ 
+ Quantidade de votos = 1 
+================================= SAIU VOTAR =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 4 
+================================= ENTROU VOTAR =============================
+final 6
+Voce iria registrar o voto de Elias
+ que e o 2 na fila 
+Voto = Voce digitou 7
+================================= ENTROU PROCURA CANDIDATO =================================
+================================= SAIU PROCURA CANDIDATO (nao encontrou) =================================
+
+Voto invalido ! nenhum candidato possui esse nuemro.
+Voto = Voce digitou 20
+================================= ENTROU PROCURA CANDIDATO =================================
+================================= SAIU PROCURA CANDIDATO (encontrou) =================================
+
+================================= ENTROU PUSH ============================
+================================= SAIU PUSH ============================
+
+================================= ENTROU ADICIONA VOTO =================================
+contabilizou mais um voto para : Carola
+ 
+ Quantidade de votos = 1 
+================================= SAIU VOTAR =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 4 
+================================= ENTROU VOTAR =============================
+final 6
+Voce iria registrar o voto de Caio
+ que e o 3 na fila 
+Voto = Voce digitou 15
+================================= ENTROU PROCURA CANDIDATO =================================
+================================= SAIU PROCURA CANDIDATO (encontrou) =================================
+
+================================= ENTROU PUSH ============================
+================================= SAIU PUSH ============================
+
+================================= ENTROU ADICIONA VOTO =================================
+contabilizou mais um voto para : Laureta
+ 
+ Quantidade de votos = 2 
+================================= SAIU VOTAR =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 4 
+================================= ENTROU VOTAR =============================
+final 6
+Voce iria registrar o voto de Guilherme
+ que e o 4 na fila 
+Voto = Voce digitou 15
+================================= ENTROU PROCURA CANDIDATO =================================
+================================= SAIU PROCURA CANDIDATO (encontrou) =================================
+
+================================= ENTROU PUSH ============================
+================================= SAIU PUSH ============================
+
+================================= ENTROU ADICIONA VOTO =================================
+contabilizou mais um voto para : Laureta
+ 
+ Quantidade de votos = 3 
+================================= SAIU VOTAR =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 4 
+================================= ENTROU VOTAR =============================
+final 6
+Voce iria registrar o voto de Barack Obama
+ que e o 5 na fila 
+Voto = Voce digitou 15
+================================= ENTROU PROCURA CANDIDATO =================================
+================================= SAIU PROCURA CANDIDATO (encontrou) =================================
+
+================================= ENTROU PUSH ============================
+================================= SAIU PUSH ============================
+
+================================= ENTROU ADICIONA VOTO =================================
+contabilizou mais um voto para : Laureta
+ 
+ Quantidade de votos = 4 
+================================= SAIU VOTAR =============================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 5 
+================================= ENTROU CONTABILIZA =================================
+Candidato 0:
+Nome do candidato: Beto Falcao
+Numero de votos: 1
+
+Candidato 1:
+Nome do candidato: Laureta
+Numero de votos: 4
+
+Candidato 2:
+Nome do candidato: Carola
+Numero de votos: 1
+
+E o vencedor da eleicao e : Laureta
+ com 4 Votos 
+Quantidade de votos: 6 e Quantidade de comprovante: 6 
+================================= SAIU CONTABILIZA =================================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 3 
+1 - Mostrar comprovantes
+2 -  Remover comprovante
+Entrada: 
+Entrada recebida : 1 
+================================= ENTROU IMPRIME PILHA ============================
+Imprimindo comprovantes de voto.
+Comprovante de voto do eleitor
+ Titulo = 100
+Comprovante de voto do eleitor
+ Titulo = 5555
+Comprovante de voto do eleitor
+ Titulo = 9864
+Comprovante de voto do eleitor
+ Titulo = 1111
+Comprovante de voto do eleitor
+ Titulo = 9866
+Comprovante de voto do eleitor
+ Titulo = 7548
+
+================================= SAIU IMPRIME PILHA ============================
+
+================================= ENTROU VOTAR =============================
+final 6
+todos eleitores da fila ja tiveram seu voto registrado
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 5 
+================================= ENTROU CONTABILIZA =================================
+Candidato 0:
+Nome do candidato: Beto Falcao
+Numero de votos: 1
+
+Candidato 1:
+Nome do candidato: Laureta
+Numero de votos: 4
+
+Candidato 2:
+Nome do candidato: Carola
+Numero de votos: 1
+
+E o vencedor da eleicao e : Laureta
+ com 4 Votos 
+Quantidade de votos: 6 e Quantidade de comprovante: 6 
+================================= SAIU CONTABILIZA =================================
+
+1 - Candidatos
+2 - Fila de eleitores
+3 - Comprovantes de voto
+4 - Votar
+5 - Contabilizar votacao
+0 - Sair
+Entrada: 
+Entrada recebida : 0 
+========================== SAIU DO MENU ========================
+
