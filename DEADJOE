@@ -1,0 +1,40 @@
+
+*** These modified files were found in JOE when it aborted on Wed Jun 15 16:44:14 2022
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+exit
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** File '(Unnamed)'
+/home/bcc/lbnk18/git/ci1056-algoritmos2/.git/COMMIT_EDITMSG
+
+*** File '/home/bcc/lbnk18/git/ci1056-algoritmos2/.git/COMMIT_EDITMSG'
+Initial wcommit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# # Committer: krugerleo <kruger.leob@gmail.com>
+#
+# Onsdqpweioqtii: branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   README.md
+#	new file:   trabalho1/entrada.txt
+#	new file:   trabalho1/header.h
+#	new file:   trabalho1/log.txt
+#	new file:   trabalho1/main.c
+#	new file:   trabalho1/relatorio.txt
+#	new file:   trabalho2/bingo.c
+#	new file:   trabalho2/bingo.h
+#	new file:   trabalho2/log-bingo.txt
+#	new file:   trabalho2/relatorio-bingo.txt
+#	new file:   trabalho2/teste-bingo.txt
+#
+	24323
