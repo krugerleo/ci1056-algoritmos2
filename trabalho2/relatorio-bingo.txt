@@ -1,0 +1,20 @@
+	Relatorio sobre o desenvolvimento do bingo algoritimico:
+	
+	A struct utilizada foi "jogador" que possui um vetor[CARTELA] (CARTELA = 6) para seguir com o padrao de nao utilizar o vetor[0],
+	possui tres outras variaveis int para guardar as comparacoes sequenciais e binarias, e uma para guardar a quantidade de encontrados durante o jogar, para 		encontrados < 5 o jogador nao concorre ao premio.
+	
+	O resultado do jogador vencedor leva em conta se ele encontrou os 5 numeros, e a quantidade de comparacoes no sequencial.
+	- Os resultados possiveis sao: "Jogador X ganhou, Felicitacoes ao jogador X", "Ninguem ganhou", "Empate".
+ 
+	Para jogar o bingo algoritimico o jogador precisa exececutar, o usuario deve ter em mente a ordem de execucao, sendo ela:
+	- Selecionar os numeros da sua cartela (void escolheNumero(jogador *jogador) funcao que escolhe o numero e nao permite receber repetidos).
+	- Gerar os numeros das cartelas dos outros jogadores(void geraNumero(jogador *jogador2,jogador *jogador3,jogador *jogador4); tambem nao permite repetidos).
+	- Gerar os sorteados (void geraSorteados(int sort[]) permite repetidos).
+	- Enfim jogador tem a opcao de imprimir os dados gerados ate o momento ou jogar.
+	- Apos jogar o vetor de sorteados foi ordenado pois era necessario para pesquisa binaria, jogar novamente sem gerar novos sorteados pode interferir no resultado.
+	Para jogar novamente:
+	- Para jogar novamente e recomendado, gerar todos os dados novamente, ou pelo menos os sorteados.
+	Para ordenacao:
+	- E preciso apenas gerar os sorteados.
+	- E entrar na opcao ordencao, la estao os algoritmos e basta selecionar um para ver a entrada e saida.
+	
